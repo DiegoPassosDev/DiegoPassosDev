@@ -40,6 +40,10 @@
   <a href="https://www.jetbrains.com/pt-br/pycharm/">
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm">
   </a>
+
+  <a href="https://netbeans.apache.org/front/main/download/index.html">
+    <img src="https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans">
+  </a>
   
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python3">
