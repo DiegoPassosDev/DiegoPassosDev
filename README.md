@@ -48,6 +48,10 @@
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp">
   </a>
+
+  <a href="https://www.java.com/pt-BR/">
+    <img src="https://img.shields.io/badge/Java-ED8B00?logo=oracle&logoColor=white&style=for-the-badge" alt="Java">
+  </a>
   
   <a href="https://www.djangoproject.com/">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
