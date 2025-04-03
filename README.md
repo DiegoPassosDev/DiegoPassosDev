@@ -110,8 +110,8 @@
 
 <p align="center">
   <a href="#" target="blank"><img src="img/discord.png" alt="Discord"/></a>
-  <a href="https://www.linkedin.com/in/diegopassosaju/" target="blank"><img src="img/linkedin.png" alt="Linkedin"/></a>
-  <a href="https://www.instagram.com/dev_diegopassos/" target="blank"><img src="img/instagram.png" alt="Telegram"/></a>
+  <a href="https://www.linkedin.com/in/diegopassosaju/" target="_blank"><img src="img/linkedin.png" alt="Linkedin"/></a>
+  <a href="https://www.instagram.com/dev_diegopassos/" target="_blank"><img src="img/instagram.png" alt="Telegram"/></a>
 </p>
 
 <h4 align="center" style="color: #ba6771;">Thanks for Visiting! 😇</h4>
