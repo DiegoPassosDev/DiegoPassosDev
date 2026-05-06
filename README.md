@@ -16,19 +16,19 @@
 
 ```python
 class DiegoPassos:
-    def __init__(self):
-        self.nome        = "Diego Passos"
-        self.localizacao = "Brasil 🇧🇷"
-        self.funcao      = "Full Stack Developer"
-        self.linguagens  = ["Python", "Java", "C#", "JavaScript", "TypeScript"]
-        self.foco_atual  = "Desenvolvimento Web, Automações & Cloud Solutions"
-        self.objetivo    = "Construir soluções que gerem impacto real"
-    
-    def frase(self):
-        return "Código limpo é código que funciona bem e comunica bem. ✨"
+    role = "Full Stack Developer"
+    location = "Brasil 🇧🇷"
+    languages = ["Python", "Java", "C#", "JavaScript", "TypeScript"]
+    stack = ["React", "Next.js", "Node.js", "Django", ".NET"]
+    databases = ["PostgreSQL", "MySQL", "SQL Server"]
+    cloud_devops = ["Docker", "Google Cloud", "Linux", "N8N"]
 
-eu = DiegoPassos()
-print(eu.frase())
+    def motto(self):
+        return "Transformando ideias em soluções reais. 🚀"
+
+
+me = DiegoPassos()
+print(me.motto())
 ```
 
 ---
@@ -90,12 +90,12 @@ print(eu.frase())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diegopassosdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegopassosdev&layout=compact&langs_count=9&theme=tokyonight&hide_border=true&bg_color=0D1117&custom_title=Tecnologias"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=diegopassosdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diegopassosdev&layout=compact&langs_count=9&theme=tokyonight&hide_border=true&bg_color=0D1117&custom_title=Tecnologias"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegopassosdev&theme=tokyonight&hide_border=true&background=0D1117" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=diegopassosdev&theme=tokyonight&hide_border=true&background=0D1117" width="70%"/>
 </div>
 
 ---
@@ -112,7 +112,7 @@ print(eu.frase())
 
 <div align="center">
 
-[![Diego Passos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diegopassosdev&bg_color=0D1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true)](https://github.com/DiegoPassosDev)
+[![Diego Passos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diegopassosdev&theme=tokyo-night&hide_border=true&area=true)](https://github.com/DiegoPassosDev)
 
 </div>
 
