@@ -1,126 +1,140 @@
-<!-- Title -->
-<h1 align="center" style="color: #ba6771;">
-【𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱】
-</h1>
-
 <div align="center">
-  <a href="https://github.com/DiegoPassosDev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegopassosdev&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
-<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23c16a75&size=55&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Diego+Passos%3BI%27m+42+years+old%3BI%27m+from+Brazil%3BI%27m+a+FullStack+Developer%3BWelcome%21+%3A%29&font=Monaco)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Diego%20Passos&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Brasil%20🇧🇷&descAlignY=55&descSize=18" width="100%"/>
 
-
-<!-- Background -->
-<img src="https://www.alura.com.br/artigos/assets/linguagem-programacao/linguagem-programacao.jpg" style="display: block; margin: 0 auto;">
-
-<h2  style="color: #ba6771;">Overview 👉</h2>
-<div align="center">
-  <p style="color: #b38c7f;">I'm a FullStack developer getting started with programming languages. I love to create and innovate in all aspects of a project.</p>
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" style="display: block; margin: 0 auto;"> <em><b style="color: #c16a75;">"I love connecting with different people! So, if you want to say hi, I'll be happy to get to know you better!"</b></em>
-</div>
-<div align="center">
-  <a href="https://github.com/DiegoPassosDev"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegopassosdev&layout=compact&langs_count=7&theme=date_night"/>
 </div>
 
-<br><br>
-
-<h2 style="color: #ba6771;">Skills 🚀</h2>
-
-<p align="center">
-
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  </a>
-
-  <a href="https://www.jetbrains.com/pt-br/pycharm/">
-    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm">
-  </a>
-
-  <a href="https://netbeans.apache.org/front/main/download/index.html">
-    <img src="https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans">
-  </a>
-  
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python3">
-  </a>
-
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp">
-  </a>
-
-  <a href="https://www.java.com/pt-BR/">
-    <img src="https://img.shields.io/badge/Java-ED8B00?logo=oracle&logoColor=white&style=for-the-badge" alt="Java">
-  </a>
-  
-  <a href="https://www.djangoproject.com/">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  </a>
-  
-  <a href="https://docs.python.org/3/library/tkinter.html">
-    <img src="https://img.shields.io/badge/Tkinter-FFD800?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter">
-  </a>  
-  
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  
-  <a href="https://www.linux.org/">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript">
-  </a>
- 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5">
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3">
-  </a>
-
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  </a>
-
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQLServer">
-  </a>
-
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  </a>
-
-  <a href="https://partner.cloudskillsboost.google/public_profiles/00b717f5-ee2c-434e-bde8-576643d23ec7">
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GoogleCloud">
-  </a>
-  
-  <a href="https://getbootstrap.com/">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap">
-  </a>
-</p>
-
-<h2 style="color: #ba6771;">Connect with me 👇</h2>
-
-<p align="center">
-  <a href="#" target="blank"><img src="img/discord.png" alt="Discord"/></a>
-  <a href="https://www.linkedin.com/in/diegopassosaju/" target="_blank"><img src="img/linkedin.png" alt="Linkedin"/></a>
-  <a href="https://www.instagram.com/dev_diegopassos/" target="_blank"><img src="img/instagram.png" alt="Telegram"/></a>
-</p>
-
-<h4 align="center" style="color: #ba6771;">Thanks for Visiting! 😇</h4>
-
 <div align="center">
-  <a href="https://diegopassosdev.github.io/portifolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" target="_blank" alt="Portfolio"></a>
-  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+%7C+Java+%7C+C%23+%7C+JavaScript;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%92%AA)](https://git.io/typing-svg)
+
 </div>
 
-<br>
+---
 
-[![Diego Passos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diegopassosdev&bg_color=170f0c&color=ba6771&line=b38c7f&point=c16a75&area=true&hide_border=true)](https://github.com/DiegoPassosDev)
+## 👨‍💻 Sobre mim
+
+```python
+class DiegoPassos:
+    def __init__(self):
+        self.nome        = "Diego Passos"
+        self.localizacao = "Brasil 🇧🇷"
+        self.funcao      = "Full Stack Developer"
+        self.linguagens  = ["Python", "Java", "C#", "JavaScript", "TypeScript"]
+        self.foco_atual  = "Desenvolvimento Web, Automações & Cloud Solutions"
+        self.objetivo    = "Construir soluções que gerem impacto real"
+    
+    def frase(self):
+        return "Código limpo é código que funciona bem e comunica bem. ✨"
+
+eu = DiegoPassos()
+print(eu.frase())
+```
+
+---
+
+## 🛠️ Linguagens e Tecnologias
+
+### 🚀 Linguagens
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="C#" title="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+
+<br/><br/>
+
+### 🌐 Front-end
+<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="React" title="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
+<img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+
+<br/><br/>
+
+### ⚙️ Back-end & Frameworks
+<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="Django" title="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
+<img align="left" alt="Flask" title="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
+<img align="left" alt=".NET" title=".NET" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"/>
+
+<br/><br/>
+
+### 🗄️ Banco de Dados
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="Microsoft SQL Server" title="SQL Server" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
+
+<br/><br/>
+
+### ☁️ Cloud, DevOps & Automação
+<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+<img align="left" alt="Google Cloud" title="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+<img align="left" alt="N8N" title="N8N – Automação de Workflows" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4"/>
+
+<br/><br/>
+
+### 🧰 IDEs & Ferramentas
+<img align="left" alt="VS Code" title="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+<img align="left" alt="PyCharm" title="PyCharm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"/>
+
+<br/><br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diegopassosdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegopassosdev&layout=compact&langs_count=9&theme=tokyonight&hide_border=true&bg_color=0D1117&custom_title=Tecnologias"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegopassosdev&theme=tokyonight&hide_border=true&background=0D1117" width="70%"/>
+</div>
+
+---
+
+## 🏆 Troféus GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=diegopassosdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+</div>
+
+---
+
+## 📈 Atividade de Contribuições
+
+<div align="center">
+
+[![Diego Passos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diegopassosdev&bg_color=0D1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true)](https://github.com/DiegoPassosDev)
+
+</div>
+
+---
+
+## 🌐 Vamos nos conectar!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegopassosaju/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_diegopassos/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://diegopassosdev.github.io/portifolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiegoPassosDev)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DiegoPassosDev.DiegoPassosDev&color=6C63FF)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
