@@ -12,24 +12,14 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🚀 Sobre mim
 
-```python
-class DiegoPassos:
-    role = "Full Stack Developer"
-    location = "Brasil 🇧🇷"
-    languages = ["Python", "Java", "C#", "JavaScript", "TypeScript"]
-    stack = ["React", "Next.js", "Node.js", "Django", ".NET"]
-    databases = ["PostgreSQL", "MySQL", "SQL Server"]
-    cloud_devops = ["Docker", "Google Cloud", "Linux", "N8N"]
-
-    def motto(self):
-        return "Transformando ideias em soluções reais. 🚀"
-
-
-me = DiegoPassos()
-print(me.motto())
-```
+- 💼 Full Stack Developer com foco em aplicações web escaláveis
+- 🧠 Experiência com Python, Java, C#, JavaScript e TypeScript
+- ⚙️ Stack moderna: React, Next.js, Node.js, Django e .NET
+- 🗄️ Bancos de dados: PostgreSQL, MySQL e SQL Server
+- ☁️ Cloud, DevOps e automações com Docker, Google Cloud, Linux e N8N
+- 🎯 Construindo soluções que geram impacto real
 
 ---
 
@@ -57,7 +47,7 @@ print(me.motto())
 ### ⚙️ Back-end & Frameworks
 <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="Django" title="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
-<img align="left" alt="Flask" title="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
+<img align="left" alt="Flask" title="Flask" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/flask/FFFFFF"/>
 <img align="left" alt=".NET" title=".NET" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"/>
 
 <br/><br/>
